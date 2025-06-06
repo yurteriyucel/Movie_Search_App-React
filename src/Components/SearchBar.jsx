@@ -84,7 +84,7 @@ const SearchBar = ({ onClose, show, iconRef }) => {
     <>
       <div
         ref={searchRef}
-        className={`absolute left-4 w-74 p-4 z-50 rounded bg-gray-900 text-black shadow-md transition-all duration-300 ease-in-out md:mt-10 md:left-1/2 md:-translate-x-1/2 md:-translate-y-1/2 md:w-[70%] md:px-7 md:py-7  ${
+        className={`absolute left-4 w-74 p-4 z-50 rounded-lg bg-gray-900 text-black shadow-md transition-all duration-300 ease-in-out md:mt-[49px] md:left-1/2 md:-translate-x-1/2 md:-translate-y-1/2 md:w-[70%] md:px-7 md:py-7  ${
           show
             ? "opacity-100 scale-100 pointer-events-auto"
             : "opacity-0 scale-95 pointer-events-none"

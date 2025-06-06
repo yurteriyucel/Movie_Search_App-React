@@ -8,7 +8,7 @@ A dynamic and responsive movie search application built with **ReactJS**, **Reac
 
 - 🎞 **Carousel** landing page with "**Explore Now**" button
 - 🔍 **Live search** with **title + genre** suggestions
-- 🧩 Filter by categories: **Movies / Series
+- 🧩 Filter by categories: **Movies / Series**
 - ❤ **Add/Remove** movies from Favorites (with clear all option)
 - 📃 **View Full details** of selected movie by clicking the poster
 - ⬅ **Navigation** with back icons
@@ -31,13 +31,13 @@ A dynamic and responsive movie search application built with **ReactJS**, **Reac
 ## How to use
 
 - 👆 Click **Explore Now** to enter movie listing page
-- 🔎 Use **Search** to filter by movie tite or genre (dropdown suggestions)
+- 🔎 Use **Search** to filter by movie title or genre (dropdown suggestions)
 - 🧾 Click **Categories** to select Movie or Series filter
 - 📄 Tap **View Details** to see full info with **Back Icon**
 - 👆 Click ❤**Heart Icon** to ➕add/❌remove from favorites
 - ➡ Go to **Favorites Page** from navbar 
   - View 🧾 favorite list
-  - Click 🗑 to remove or 🧹 Clear All to reset list
+  - Click 🗑**Delete button** to remove and 🧹 **Clear All button** to reset list
 
 ---
 
@@ -46,4 +46,4 @@ A dynamic and responsive movie search application built with **ReactJS**, **Reac
 - 🌙 Dark Mode toggle
 - 📅 Sort movies by year or rating
 - 🔒 User authentication for personal favorite list
-- 📂 Pagination in movie results
+

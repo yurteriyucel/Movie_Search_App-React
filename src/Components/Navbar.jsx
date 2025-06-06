@@ -48,7 +48,7 @@ const Navbar = ({ onSearchClick, iconRef }) => {
         <div className="fixed  inset-0 backdrop-blur-sm z-10"></div>
       )}
       {/* top Nav */}
-      <nav className="bg-black text-white px-4 py-2 shadow-md sticky top-0 z-50 md:py-4">
+      <nav className="bg-[#0a0a13] text-white px-4 py-2 shadow-md sticky top-0 z-50 md:py-4">
         {/* Left  */}
         <div>
           <div className="flex justify-between items-center">
